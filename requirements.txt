@@ -2,6 +2,7 @@ pyTelegramBotAPI
 psutil
 requests
 Flask
+gunicorn
 qrcode
 Pillow
 cryptography
